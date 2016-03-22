@@ -1,0 +1,13 @@
+EXPORTS
+DirectSoundCaptureCreate=DirectSoundCaptureCreate @1
+DirectSoundCaptureCreate8=DirectSoundCaptureCreate8 @2
+DirectSoundCaptureEnumerateA=DirectSoundCaptureEnumerateA @3
+DirectSoundCaptureEnumerateW=DirectSoundCaptureEnumerateW @4
+DirectSoundCreate=DirectSoundCreate @5
+DirectSoundCreate8=DirectSoundCreate8 @6
+DirectSoundEnumerateA=DirectSoundEnumerateA @7
+DirectSoundEnumerateW=DirectSoundEnumerateW @8
+DirectSoundFullDuplexCreate=DirectSoundFullDuplexCreate @9
+DLLCanUnloadNow=DLLCanUnloadNow @10
+DllGetClassObject=DllGetClassObject @11
+GetDeviceID=GetDeviceID @12
