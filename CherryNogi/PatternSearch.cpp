@@ -14,8 +14,8 @@ CPatternSearch::CPatternSearch(pattern p)
 	BytePattern = new BYTE[sizeof(p.BytePattern)];
 	memcpy(BytePattern, p.BytePattern, sizeof(p.BytePattern));
 	address = 0;
-	SearchPOS = 0x401000;	//start address		
-	SearchEnd = 0x2FFFFFF;	//end address
+	SearchPOS = 0x401000;	
+	SearchEnd = 0x2FFFFFF;
 }
 
 
